@@ -10,3 +10,12 @@
 Скрипт находится в /scr/duplicate_all.sh
 
 ![alt](./fig/task2.png)
+### c.
+
+Done. 1.5 часа, мда...
+
+### d.
+
+### e.
+
+### f.
