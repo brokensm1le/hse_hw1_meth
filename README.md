@@ -19,4 +19,14 @@ Done. 1.5 часа, мда...
 
 ### e)
 
+![alt](./fig/dist_8cell.png)
+
+![alt](./fig/dist_epi.png)
+
+![alt](./fig/dist_icm.png)
+
+Как строил эти графики(пример):
+
+![alt](./fig/example.png)
+
 ### f)
