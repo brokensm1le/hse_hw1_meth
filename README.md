@@ -1,22 +1,22 @@
 # hse_hw1_meth
 
 ## 2.
-### a.
+### a)
 
 ![alt](./fig/task1.png)
 
-### b.
+### b)
 
 Скрипт находится в /scr/duplicate_all.sh
 
 ![alt](./fig/task2.png)
-### c.
+### c)
 
 Done. 1.5 часа, мда...
 
-### d.
+### d)
 Отчеты в /html.
 
-### e.
+### e)
 
-### f.
+### f)
