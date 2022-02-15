@@ -1,5 +1,8 @@
 # hse_hw1_meth
 
+Ссылка на Colab: https://colab.research.google.com/drive/1NythSDWdjgvl8WtRStkHupEtXQn3Htz5?usp=sharing
+
+
 ## 2.
 ### a)
 
