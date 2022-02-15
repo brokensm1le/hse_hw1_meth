@@ -30,3 +30,10 @@ Done. 1.5 часа, мда...
 ![alt](./fig/example.png)
 
 ### f)
+Митилирование:
+
+![alt](./fig/myth.png)
+
+Покрытие:
+
+![alt](./fig/cov.png)
