@@ -49,6 +49,10 @@ Done. 1.5 часа, мда...
 ### d)
 Отчеты в /html.
 
+![alt](./fig/8cellMbians.png)
+![alt](./fig/epiMbians.png)
+![alt](./fig/icmMbians.png)
+
 ### e)
 
 ![alt](./fig/dist_8cell.png)
