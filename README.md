@@ -2,6 +2,14 @@
 
 Ссылка на Colab: https://colab.research.google.com/drive/1NythSDWdjgvl8WtRStkHupEtXQn3Htz5?usp=sharing
 
+## 1
+
+<p float="left">
+  <img src="/fig/RNA1.png " width="330" />
+  <img src="/fig/myth1_1.png" width="330" />
+  <img src="/fig/myth2_1.png" width="330" />
+</p>
+
 
 ## 2.
 ### a)
