@@ -7,15 +7,23 @@
 ### 1)
 Все fastqc файлы лежат в одноименной папке /fastqc
 
-(1 картинка - какой-то секвенирование RNA с прошлой дз, 2 картинка - SRR5836473_1, 3 картинка - SRR5836473_2)
+(1 картинка - какой-то секвенирование RNA с прошлой дз, 2 картинка - SRR5836473_1)
 
 <p float="left">
-  <img src="/fig/RNA1.png " width="330" />
-  <img src="/fig/myth1_1.png" width="330" />
-  <img src="/fig/myth1_2.png" width="330" />
+  <img src="/fig/RNA1.png " width="400" />
+  <img src="/fig/myth1_1.png" width="400" />
+</p>
+из этих картинок делаем вывод, что к концу секвенирования митилирование - падает quality score
+
+<p float="left">
+  <img src="/fig/RNA2.png " width="400" />
+  <img src="/fig/myth2_1.png" width="400" />
 </p>
 
-из этих картинок делаем вывод, что к концу секвенирования митилирование - падает quality score
+<p float="left">
+  <img src="/fig/RNA3.png " width="400" />
+  <img src="/fig/myth3_1.png" width="400" />
+</p>
 
 ### 
 
