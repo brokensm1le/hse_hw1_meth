@@ -2,13 +2,22 @@
 
 Ссылка на Colab: https://colab.research.google.com/drive/1NythSDWdjgvl8WtRStkHupEtXQn3Htz5?usp=sharing
 
-## 1
+## 1.
+
+### 1)
+Все fastqc файлы лежат в одноименной папке /fastqc
+
+(1 картинка - какой-то секвенирование RNA с прошлой дз, 2 картинка - SRR5836473_1, 3 картинка - SRR5836473_2)
 
 <p float="left">
   <img src="/fig/RNA1.png " width="330" />
   <img src="/fig/myth1_1.png" width="330" />
   <img src="/fig/myth1_2.png" width="330" />
 </p>
+
+из этих картинок делаем вывод, что к концу секвенирования митилирование - падает quality score
+
+### 
 
 
 ## 2.
