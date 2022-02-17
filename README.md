@@ -7,7 +7,7 @@
 <p float="left">
   <img src="/fig/RNA1.png " width="330" />
   <img src="/fig/myth1_1.png" width="330" />
-  <img src="/fig/myth2_1.png" width="330" />
+  <img src="/fig/myth1_2.png" width="330" />
 </p>
 
 
